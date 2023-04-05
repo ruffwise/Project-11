@@ -22,3 +22,7 @@
 ![](/images/ansible-test.png)
 
 ### Run 2nd ansible test to create directory with a file
+
+![](/images/ansible-create-file.png)
+
+![](/images/ansible-create-file2.png)
